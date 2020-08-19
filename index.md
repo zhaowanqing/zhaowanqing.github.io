@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to WanqingZhao Homepages
+### About me
+I am currently a lecture in the School of Information Science and Technology at Northwest University, China. I received the PhD degrees from  Northwest University of China in 2017. My research directions include machine learning, computer vision, pattern recognition and multimedia  retrieval.
 
-You can use the [editor on GitHub](https://github.com/zhaowanqing/github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Email
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+zhaowq@nwu.edu.cn
+zhaowanqing@gmail.com
 
-### Markdown
+### Publications
+1. Learning Deep Network for Detecting 3D Object Keypoints and 6D Poses ([PDF](https://guides.github.com/features/mastering-markdown/))
+Zhao, Wanqing and Zhang, Shaobo and Guan, Ziyu and Zhao, Wei and Peng, Jinye and Fan, Jianping
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaowanqing/github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
