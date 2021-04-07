@@ -62,6 +62,6 @@ Multimedia Tools and Applications, Vol. 78, No. 19 pp. 27463-27489, 2019.
 Hou, Yong and Luo, Hangzai and **Zhao, Wanqing** and Zhang, Xiang and Wang, Jun and Peng, Jinye  
 Computer Animation and Virtual Worlds, Vol. 30, No. 3-4 pp. e1897, 2019.
 
-####西北大学： https://www.nwu.edu.cn
-####西北大学信息科学与技术学院: https://ist.nwu.edu.cn
-####西北大学信息科学与技术学院 个人主页: https://ist.nwu.edu.cn/info/1018/1609.htm
+#### 西北大学： https://www.nwu.edu.cn
+#### 西北大学信息科学与技术学院: https://ist.nwu.edu.cn
+#### 西北大学信息科学与技术学院 个人主页: https://ist.nwu.edu.cn/info/1018/1609.htm
