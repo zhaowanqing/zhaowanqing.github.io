@@ -2,7 +2,7 @@
 ![](https://github.com/zhaowanqing/Wanqing_Zhao/blob/gh-pages/zwq-photo.jpg?raw=true)
 ### About me
 I am currently a lecture in the School of Information Science and Technology at Northwest University, China. I received the PhD degree from  Northwest University of China in 2017. My research interests include machine learning, computer vision, pattern recognition and multimedia  retrieval.  
-
+[中文主页](index-cn.md)
 ### Emails
 
 **zhaowq@nwu.edu.cn**  
