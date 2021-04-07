@@ -4,7 +4,7 @@
 #### 博士，副教授，硕士生导师
 #### 工作单位：西北大学信息科学与技术学院
 #### 邮箱：zhaowq@nwu.edu.cn
-#### 办公地址：西北大学长安校区信息楼624
+#### 办公地址：西安市长安区郭杜教育科技产业区学府大道1号 西北大学长安校区信息楼624
 #### 【[英文版主页](index-cn.md) 】
 ————————————————
 ### 个人简介
@@ -61,3 +61,7 @@ Multimedia Tools and Applications, Vol. 78, No. 19 pp. 27463-27489, 2019.
 11. Multilayer feature descriptors fusion CNN models for fine-grained visual recognition  
 Hou, Yong and Luo, Hangzai and **Zhao, Wanqing** and Zhang, Xiang and Wang, Jun and Peng, Jinye  
 Computer Animation and Virtual Worlds, Vol. 30, No. 3-4 pp. e1897, 2019.
+
+####西北大学： https://www.nwu.edu.cn
+####西北大学信息科学与技术学院: https://ist.nwu.edu.cn
+####西北大学信息科学与技术学院 个人主页: https://ist.nwu.edu.cn/info/1018/1609.htm
