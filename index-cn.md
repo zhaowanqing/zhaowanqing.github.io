@@ -1,29 +1,22 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>赵万青</h1>
-      <p><b>博士，副教授，硕士生导师</b></p>
-      <p><b>工作单位：西北大学信息科学与技术学院</b></p>
-      <p><b>邮箱：zhaowq@nwu.edu.cn</b></p>
-      <p><b>办公地址：西北大学长安校区信息楼624</b></p>
-      <p><b><a href="/index.html">【英文版主页】</a></b></p>
-    </td>
-    <td width="25%">
-      <img src="/zwq-photo.jpg" width="100%">   
-    </td>
-  </tr>
-</table>
+## 欢迎来到赵万青 学术主页
+![](https://github.com/zhaowanqing/Wanqing_Zhao/blob/gh-pages/zwq-photo.jpg?raw=true)
+### 赵万青
+#### 博士，副教授，硕士生导师
+#### 工作单位：西北大学信息科学与技术学院
+#### 邮箱：zhaowq@nwu.edu.cn
+#### 办公地址：西北大学长安校区信息楼624
+#### [英文版主页](index-cn.md) 
 ————————————————
-<h1>个人简介</h1>
+### 个人简介
 主要研究方向：智能媒体检索、机器学习、计算机视觉和增强/虚拟现实。<br/>
 目前已发表学术论文二十余篇，其中以第一作者或通信作者在人工智能国际顶级会议（CVPR、IJCAI）上发表多篇学术论文并做大会报告，作为主持人或骨干成员参与多项国家自然科学基金和国家重点研发计划等项目，授权多项发明专利及软件著作权，获陕西省高校科学技术奖一等奖。
-<h1>科研项目</h1>
+### 科研项目
 1.针对社交媒体视觉兴趣检索的精细化语义哈希学习方法研究，国家自然科学基金青年项目，2019年9月，主持 <br/>
 2.基于深度学习的多标签图像多目标哈希学习方法，陕西省自然科学基金基础研究计划，2019年9月，主持 <br/>
 3.基于弱标签数据和深度学习的图像哈希学习方法研究，陕西省教育厅专项科研计划项目，2018年10月，主持<br/>
-<h1>社会兼职</h1>	
+### 社会兼职
 中国计算机学会、IEEE、ACM会员；人工智能国际会议IJCAI2021程序委员会成员；国际会议KDD2021, MMM2018、2019和WSDM2021审稿人
-<h1>最近发表论文</h1>
+### 最近发表论文
 
 1. Learning Deep Network for Detecting 3D Object Keypoints and 6D Poses [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf)]  
 **Zhao, Wanqing** and Zhang, Shaobo and Guan, Ziyu and Zhao, Wei and Peng, Jinye and Fan, Jianping  
