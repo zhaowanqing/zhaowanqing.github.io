@@ -13,11 +13,11 @@ I am currently a associate professor in the School of Information Science and Te
 ### Recent Publications
 
 1. Multiple Instance Hashing for Fast Multi-object Image Search [[PDF](https://ieeexplore.ieee.org/abstract/document/9547059)]  
-**Zhao, Wanqing** and Guan, Ziyu and Luo, Hangzai and Peng, Jinye and Fan, Jianping 
+**Zhao, Wanqing** and Guan, Ziyu and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
 IEEE Transactions on Image Processing, Vol. 30, pp. 7995-8007, 2021.
 
 2. Keypoint-graph-driven learning framework for object pose estimation [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf)]  
-Zhang, Shaobo and **Zhao, Wanqing*** and Guan Ziyu and Peng, Xianlin and Peng, Jinye 
+Zhang, Shaobo and **Zhao, Wanqing*** and Guan Ziyu and Peng, Xianlin and Peng, Jinye  
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 3. Learning Deep Network for Detecting 3D Object Keypoints and 6D Poses [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf)]  
