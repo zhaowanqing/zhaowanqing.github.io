@@ -12,7 +12,7 @@ I am currently a associate professor in the School of Information Science and Te
 
 ### Recent Publications
 
-14. Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [[PDF](https://aaai-2022.virtualchair.net/poster_aaai6621)]  
+1. Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [[PDF](https://aaai-2022.virtualchair.net/poster_aaai6621)]  
 Zhang, Xiang and **Zhao, Wanqing** and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
 Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 
@@ -60,7 +60,7 @@ Proceedings of the 16th ACM SIGGRAPH International Conference on Virtual-Reality
 **Zhao, Wanqing** and Luo, Hangzai and Peng, Jinye and Fan, Jianping
 Multimedia Tools and Applications, Vol. 76, No. 22 pp. 23291-23307, 2017.
 
-2. Plant recognition via leaf shape and margin features
+2. Plant recognition via leaf shape and margin features  
 Zhang, Xiang and **Zhao, Wanqing** and Luo, Hangzai and Chen, Long and Peng, Jinye and Fan, Jianping  
 Multimedia Tools and Applications, Vol. 78, No. 19 pp. 27463-27489, 2019.
 
