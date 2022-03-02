@@ -67,7 +67,7 @@ Proceedings of the 16th ACM SIGGRAPH International Conference on Virtual-Reality
 **Zhao, Wanqing** and Luo, Hangzai and Peng, Jinye and Fan, Jianping
 Multimedia Tools and Applications, Vol. 76, No. 22 pp. 23291-23307, 2017.
 
-13. Plant recognition via leaf shape and margin features
+13. Plant recognition via leaf shape and margin features  
 Zhang, Xiang and **Zhao, Wanqing** and Luo, Hangzai and Chen, Long and Peng, Jinye and Fan, Jianping  
 Multimedia Tools and Applications, Vol. 78, No. 19 pp. 27463-27489, 2019.
 
