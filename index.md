@@ -12,8 +12,12 @@ I am currently a associate professor in the School of Information Science and Te
 
 ### Recent Publications
 
-1. Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [[PDF](https://aaai-2022.virtualchair.net/poster_aaai6621)]  
-Zhang, Xiang and **Zhao, Wanqing** and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
+1. Guided Filter Network for Semantic Image Segmentation [[PDF](https://ieeexplore.ieee.org/document/9740527)]  
+Zhang, Xiang and **Zhao, Wanqing*** and Wei, Zhang and Peng, Jinye and Fan, Jianping  
+IEEE Transactions on Image Processing, Vol. 31, pp. 2695-2709, 2022.
+
+14. Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [[PDF](https://aaai-2022.virtualchair.net/poster_aaai6621)]  
+Zhang, Xiang and **Zhao, Wanqing*** and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
 Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 
 13. Multiple Instance Hashing for Fast Multi-object Image Search [[PDF](https://ieeexplore.ieee.org/abstract/document/9547059)]  
