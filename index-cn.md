@@ -18,9 +18,12 @@
 中国计算机学会、IEEE、ACM会员；人工智能国际会议IJCAI2021程序委员会成员；国际会议KDD2021, MMM2018、2019和WSDM2021审稿人
 ### 最近发表论文
 
+1. Guided Filter Network for Semantic Image Segmentation [[PDF](https://ieeexplore.ieee.org/document/9740527)]  
+Zhang, Xiang and **Zhao, Wanqing*** and Wei, Zhang and Peng, Jinye and Fan, Jianping  
+IEEE Transactions on Image Processing, Vol. 31, pp. 2695-2709, 2022.
 
 1. Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [[PDF](https://aaai-2022.virtualchair.net/poster_aaai6621)]  
-Zhang, Xiang and **Zhao, Wanqing** and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
+Zhang, Xiang and **Zhao, Wanqing*** and Luo, Hangzai and Peng, Jinye and Fan, Jianping  
 Association for the Advancement of Artificial Intelligence (AAAI), 2022.
 
 2. Multiple Instance Hashing for Fast Multi-object Image Search [[PDF](https://ieeexplore.ieee.org/abstract/document/9547059)]  
